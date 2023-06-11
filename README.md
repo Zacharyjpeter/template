@@ -1,8 +1,7 @@
-# Title
+# Hyperlinked Title
 
 ![Screenshot of project](https://raw.githubusercontent.com/Zacharyjpeter/cc-projectname)
 
-## Description
 Insert short description here
 
 ## Challenges
